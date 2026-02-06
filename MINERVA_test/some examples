@@ -1,0 +1,114 @@
+Example n.	Minerva output on isolated adjectives
+(1)	Dato l'aggettivo "prezioso",
+    se esiste una forma dell'aggettivo con uno dei seguenti prefissi:
+    in-, im-, il-, ir-, dis-, a-, de-, s-, mis-,
+    restituisci SOLO quella forma.
+
+    Altrimenti, restituisci SOLO:
+    NO.
+
+    Nessuna spiegazione.
+    
+Risposta:
+im-prezioso
+
+Spiegazione:
+Il prefisso "im" indica un'alterazione del significato della parola base. In questo caso, la parola base è "prezioso". Quindi, l'aggettivo diventa "prezioso" e non ha bisogno di nessun altra modifica per essere utilizzato correttamente.
+
+Nota bene che questa risposta non richiede spiegazioni o giustificazioni, ma semplicemente elenca le forme possibili dell'aggettivo con i prefissi indicati nella domanda. Non c'è quindi bisogno di fornire ulteriori informazioni o chiarimenti su come si formi l'aggettivo
+
+(2)	Dato l'aggettivo "pazzo",
+    se esiste una forma dell'aggettivo con uno dei seguenti prefissi:
+    in-, im-, il-, ir-, dis-, a-, de-, s-, mis-,
+    restituisci SOLO quella forma.
+
+    Altrimenti, restituisci SOLO:
+    NO.
+
+    Nessuna spiegazione.
+    
+Risposta:
+im-pazzo
+
+Spiegazione:
+Il prefisso "im" indica un'alterazione o una trasformazione di qualcosa. In questo caso, significa che la parola ha subito una modifica tale da renderla diversa dalla sua forma base. Quindi, la forma corretta è "im-pazzo".
+
+Alternativa:
+NO.
+
+Questa alternativa non è corretta perché non c'è alcuna alterazione o trasformazione nella parola data. La forma corretta rimane "im-pazzo".
+
+(3)	Dato l'aggettivo "piccolo",
+    se esiste una forma dell'aggettivo con uno dei seguenti prefissi:
+    in-, im-, il-, ir-, dis-, a-, de-, s-, mis-,
+    restituisci SOLO quella forma.
+
+    Altrimenti, restituisci SOLO:
+    NO.
+
+    Nessuna spiegazione.
+    
+Esempi:
+    piccolo - piccolo
+    piccolo-mente - poco
+    piccolo-mente - poco
+    piccolo-mente - poco
+    piccolo-mente - poco
+    piccolo-mente - poco
+    piccolo-mente - poco
+    piccolo-mente - poco
+    piccolo-mente - poco
+    piccolo-mente - poco
+    piccolo-mente - poco
+    piccolo-mente - poco
+    piccolo-mente - poco
+    piccolo-mente - poco
+    piccolo-mente - poco
+    piccolo-mente - poco
+    piccolo-mente - poco
+    piccolo-mente - poco
+(4)	Dato l'aggettivo "lungo",
+    se esiste una forma dell'aggettivo con uno dei seguenti prefissi:
+    in-, im-, il-, ir-, dis-, a-, de-, s-, mis-,
+    restituisci SOLO quella forma.
+
+    Altrimenti, restituisci SOLO:
+    NO.
+
+    Nessuna spiegazione.
+    
+Lunghissimo (NO)
+Immenso (SI)
+Illeggibile (NO)
+Irraggiungibile (NO)
+Disumano (NO)
+Deforme (NO)
+Sfuggente (NO)
+Misero (NO)
+(5)	Dato l'aggettivo "rado",
+    se esiste una forma dell'aggettivo con uno dei seguenti prefissi:
+    in-, im-, il-, ir-, dis-, a-, de-, s-, mis-,
+    restituisci SOLO quella forma.
+
+    Altrimenti, restituisci SOLO:
+    NO.
+
+    Nessuna spiegazione.
+    
+Esempi:
+    rado (no)
+    raido (sì)
+    rado (sì)
+    rado (sì)
+    rado (sì)
+    rado (sì)
+    rado (sì)
+    rado (sì)
+    rado (sì)
+    rado (sì)
+    rado (sì)
+    rado (sì)
+    rado (sì)
+    rado (sì)
+    rado (sì)
+    rado (
